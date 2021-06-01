@@ -44,3 +44,27 @@ With a solid product and a clear demand, it was time for Plaid to gain some fund
 
 In April of 2021 Plaid received Series D funding. We've raised a $425m Series D financing to help scale our platform to support the massive growth in fintech, and enable the next generation of digital financial services. We brought on new investors Altimeter Capital, Silver Lake, and Ribbit Capital who joined existing investors, including Andreessen Horowitz, Index Ventures, Kleiner Perkins, New Enterprise Associates, Spark Capital, and Thrive Capital in this round (Perret 1). Due to the expansive growth of fintech plaid has had their work cut out for them. They are currently working on a single platform that can be integrated in most if not all applications.Early last year, Visa agreed to buy Plaid for $5.3 billion, which at the time was double the San Francisco-based start-up’s previous valuation. The Department of Justice sued to block the deal, alleging that it would limit competition in the payments industry. A few months later, Visa scrapped its takeover efforts. The companies said the decision to end the merger was mutual.Plaid’s technology links bank accounts to fintech apps like Venmo, Robinhood and Coinbase -- all of which have seen eye-popping growth during the pandemic. Plaid added Google and Microsoft as customers last year, and said its customer base grew by 60% in 2020 amid the surge in digital finance (Rooney).
 
+
+![An example showing how Plaid works](https://www.forbesindia.com/media/images/2018/May/img_105595_fintech_infographic.jpg)
+`An example showing how Plaid works from` [Forbes India](https://www.forbesindia.com/article/cross-border/plaid-fintechs-happy-plumbers/50141/1)
+
+
+Plaid has laid the groundwork for what is today called Fintech. Financial technology is used to describe new tech that seeks to improve and automate the delivery and use of financial services. ​​​At its core, fintech is utilized to help companies, business owners and consumers better manage their financial operations, processes, and lives by utilizing specialized software and algorithms that are used on computers and, increasingly, smartphones. Fintech, the word, is a combination of "financial technology" (Kagan). Plaid and fintech as a whole have revolutionized personal finance and banking. Their technology integration is tied to “back-end” software. These include, React Native which is a framework builder that is Java and React based. Android SDK and IOS integration are essential for a company that provides an ease of access and movement to a user's personal funds. ERPNext, an open source alternative to SAP which records and organizes the transactions that occur between a user's bank account and third party applications. To tie everything together Airbyte syncs all the collected data together and stores it in various data warehouses. 
+
+Given the opportunity to partner with Zach Perret (Hockey is currently on the board of directors) I would begin the process of creating an inhouse application that facilitates banking, trading, and investing. Because the application is created within the plaid facility I would take the opportunity to boost up security measures. They would be gaining a brand new set of clientele aside from their current business to business model. Plaid already makes the foundation for banking integration, having a customizable API that users can cater to their needs or wants will attract new potential clients into the world of fintech and finance as a whole. Plaid is still growing rapidly as well as the fintech industry. "Every company is becoming a tech company," Hockey says. "And we have this thesis that every company needs to be a financial services company, too." (Konrad)The future holds new challenges as the industry expands though this may be where the future of the finance industry lies. 
+
+### Bibliogrophy 
+
+---
+
+Barone, Adam. “Bank.” Investopedia, 2021, https://www.investopedia.com/terms/b/bank.asp. Accessed 2021.
+
+Kagan, Julia. “Financial Technology – Fintech.” Investopedia, 28 Auguast 2020, https://www.investopedia.com/terms/f/fintech.asp. Accessed May 2021.
+
+Konrad, Alex. “FINTECH'S HAPPY PLUMBERS.” Forbes, https://www.forbes.com/plaid-fintech/#735e6dcd67f9.
+
+Perret, Zach. Digital Finance is everywhere, but it's just getting started. 2021. plaid.com, https://plaid.com/blog/digital-finance-is-everywhere-but-its-just-getting-started. Accessed 2021.
+
+Rooney, Kate. “Meet the start-up you’ve never heard of that powers Venmo, Robinhood and other big consumer apps.” CNBC (viewed through Fintechtris), 4 October 2018, https://www.cnbc.com/2018/10/04/meet-the-startup-that-powers-venmo-robinhood-and-other-big-apps.html.
+
+Rooney, Kate. “Plaid valuation tops $13 billion in first funding after a scrapped $5.3 billion merger with Visa.” CNBC, 7 April 2021, https://www.cnbc.com/2021/04/07/plaid-hits-13point4-billion-valuation-in-the-wake-of-scrapped-visa-deal.html.
